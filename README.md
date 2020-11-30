@@ -34,7 +34,7 @@ In collaboration with Chris Church:
 - Developed the imgage carousel and svg network visualization.
 
 ### True Crimes
-http://digital.wustl.edu/truecrimes/
 A digital archive of imperial Chinese legal documents pertaining to the prosecution of twenty-one capital crimes.
 - Created a document model for the Chinese texts.
 - Generated XML templates for each of the documents, in conformance with TEI P5 standards.
+http://digital.wustl.edu/truecrimes/

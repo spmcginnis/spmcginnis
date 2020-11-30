@@ -1,4 +1,4 @@
-# Projects (WIP)
+# Project Portfolio (WIP)
 
 ## Application Development
 
@@ -7,5 +7,6 @@
 ## Collaborations
 ### Richard Pryor's Peoria
 http://www.becomingrichardpryor.com/pryors-peoria/
-- Cleaned the Wordpress backend.
+- Designed the layout for several pages.
+- Reorganized the Wordpress backend.
 - Developed the imgage carousel and svg network visualization.

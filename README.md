@@ -39,4 +39,4 @@ A digital archive of imperial Chinese legal documents pertaining to the prosecut
 - Created a document model for the Chinese texts.
 - Generated XML templates for each of the documents, in conformance with TEI P5 standards.
 
-digital.wustl.edu/truecrimes/
+[digital.wustl.edu/truecrimes/]

@@ -19,7 +19,7 @@ https://github.com/spmcginnis/HS-swbb
 https://github.com/spmcginnis/LibCitationsProject_2017
 
 Edwards, Jones, and McGinnis (2017). "Big Date for Big Questions: Assessing the Impact of Non-English Language Sources on Doctoral Research at Berkeley."  
-[View article here.](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2017/BigDataforBigQuestions.pdf)
+[(view article)](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2017/BigDataforBigQuestions.pdf)
 
 ### Hanshu KWIC
 https://github.com/spmcginnis/Hanshu_KWIC_2014

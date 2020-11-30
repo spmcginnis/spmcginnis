@@ -18,8 +18,7 @@ https://github.com/spmcginnis/HS-swbb
 ### Library Citations Project
 https://github.com/spmcginnis/LibCitationsProject_2017
 
-Edwards, Jones, and McGinnis (2017). "Big Date for Big Questions: Assessing the Impact of Non-English Language Sources on Doctoral Research at Berkeley."
-http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2017/BigDataforBigQuestions.pdf
+[Edwards, Jones, and McGinnis (2017). "Big Date for Big Questions: Assessing the Impact of Non-English Language Sources on Doctoral Research at Berkeley."](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2017/BigDataforBigQuestions.pdf)
 
 ### Hanshu KWIC
 https://github.com/spmcginnis/Hanshu_KWIC_2014
@@ -27,11 +26,12 @@ https://github.com/spmcginnis/Hanshu_KWIC_2014
 TODO add poster as image
 
 ### Richard Pryor's Peoria
-http://www.becomingrichardpryor.com/pryors-peoria/
 In collaboration with Chris Church:
 - Designed the layout for several pages.
 - Reorganized the Wordpress backend.
 - Developed the imgage carousel and svg network visualization.
+
+http://www.becomingrichardpryor.com/pryors-peoria/
 
 ### True Crimes
 A digital archive of imperial Chinese legal documents pertaining to the prosecution of twenty-one capital crimes.

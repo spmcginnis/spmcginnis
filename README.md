@@ -1,6 +1,11 @@
 # Project Portfolio (WIP)
 
 ## Application Development
+
+### Sample Health Data Frontend
+An Angular web-app desigend to consume the sample health data API.
+https://github.com/spmcginnis/HealthDataFrontend
+
 ### Sample Health Data API
 My capstone project for LaunchCode, this is an ASP.NET RestAPI written in C# with a MongoDB backend.
 https://github.com/spmcginnis/sample-HealthDataAPI
@@ -19,8 +24,14 @@ http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpre
 ### Hanshu KWIC
 https://github.com/spmcginnis/Hanshu_KWIC_2014
 
+TODO add poster as image
+
 ### Richard Pryor's Peoria
 http://www.becomingrichardpryor.com/pryors-peoria/
+In collaboration with Chris Church:
 - Designed the layout for several pages.
 - Reorganized the Wordpress backend.
 - Developed the imgage carousel and svg network visualization.
+
+### True Crimes
+http://digital.wustl.edu/truecrimes/

@@ -7,7 +7,7 @@ An Angular web-app desigend to consume the sample health data API.
 https://github.com/spmcginnis/HealthDataFrontend
 
 ### Sample Health Data API
-My capstone project for LaunchCode, this is an ASP.NET RestAPI written in C# with a MongoDB backend.  
+My capstone project for LaunchCode, this is an ASP.NET RestAPI written in C# with a MongoDB.  
 https://github.com/spmcginnis/sample-HealthDataAPI
 
 ## Digital Humanities

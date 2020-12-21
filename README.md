@@ -61,9 +61,8 @@
       <br/>Scripts for use on the ProQuest dissertation collection, using XQuery to query the XML data and generate XSLX (Excel-XML) reports and using Python to automate the queries.
     </summary>
     For more details, see the following article, esp. pages 89 ff.
-    Edwards, Jones, and McGinnis (2017). "Big Date for Big Questions: Assessing the Impact of Non-English Language Sources on Doctoral Research at Berkeley."  
-    <br/><a href="http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2017/BigDataforBigQuestions.pdf">View Article</a>
-    <br/>< href="https://github.com/spmcginnis/LibCitationsProject_2017">Source Files</a>
+    Edwards, Jones, and McGinnis (2017). "Big Date for Big Questions: Assessing the Impact of Non-English Language Sources on Doctoral Research at Berkeley."<a href="http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2017/BigDataforBigQuestions.pdf">View Article</a>
+    <br/><a href="https://github.com/spmcginnis/LibCitationsProject_2017">Source Files</a>
   </details>
 </h5>
 <h5>
@@ -72,8 +71,8 @@
       Han shu KWIC  
       <br/>A Keyword-in-context search for a classical Chinese history, written in XSLT.
     </summary>
-    https://github.com/spmcginnis/Hanshu_KWIC_2014
-    TODO add poster as image
+    <a href="https://github.com/spmcginnis/Hanshu_KWIC_2014">Source Files</a>
+    <br/>TODO add poster as image
   </details>
 </h5>
 <h5>
@@ -83,10 +82,12 @@
       <br/>desc (TODO)
     </summary>
     My contribution included:
-    - Designing the layout for several pages.
-    - Reorganizing the Wordpress backend.
-    - Developing the imgage carousel, the maps views, and svg network visualization.
-    www.becomingrichardpryor.com/pryors-peoria/
+    <ul>
+      <li>Designing the layout for several pages.</li>
+      <li>Reorganizing the Wordpress backend.</li>
+      <li>Developing the imgage carousel, the maps views, and svg network visualization.</li>
+    </ul>
+    <a href="www.becomingrichardpryor.com/pryors-peoria/">View Site</a>
   </details>
 </h5>
 <h5>
@@ -96,9 +97,11 @@
       <br/>A digital archive of imperial Chinese legal documents pertaining to the prosecution of twenty-one capital crimes.
     </summary>
     My contribution included:
-    - Creating a document model for the Chinese texts.
-    - Generating XML templates for each of the documents, in conformance with TEI P5 standards.
-    - Solving problems related to centuries-old Chinese handwriting.
-    http://digital.wustl.edu/truecrimes/
+    <ul>
+      <li>Creating a document model for the Chinese texts.</li>
+      <li>Generating XML templates for each of the documents, in conformance with TEI P5 standards.</li>
+      <li>Solving problems related to centuries-old Chinese handwriting.</li>
+    </ul>
+    <a href="http://digital.wustl.edu/truecrimes/">View Site</a>    
   </details>
 </h5>

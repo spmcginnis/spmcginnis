@@ -49,8 +49,10 @@
       Han shu shuwen bingben 漢書數文竝本
       <br/>An electronic edition of a voluminous classical Chinese history, encoded in TEI-XML.
     </summary>
-    TODO: Progress to date
-    https://github.com/spmcginnis/HS-swbb
+    <div>TODO: Progress to date
+      <br/>
+      <a href="https://github.com/spmcginnis/HS-swbb">Source Files</a>
+    </div>
   </details>
 </h5> 
 <h5>

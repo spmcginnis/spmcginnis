@@ -17,10 +17,19 @@ https://github.com/spmcginnis/sample-HealthDataAPI
 https://github.com/spmcginnis/HS-swbb
 
 ### Library Citations Project
-https://github.com/spmcginnis/LibCitationsProject_2017
+<details>
+  <summary>Links</summary>
+  https://github.com/spmcginnis/LibCitationsProject_2017
+</details>
+<details>
+  <summary>More Info</summary>
 
-Edwards, Jones, and McGinnis (2017). "Big Date for Big Questions: Assessing the Impact of Non-English Language Sources on Doctoral Research at Berkeley."  
-[(view article)](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2017/BigDataforBigQuestions.pdf)
+  Edwards, Jones, and McGinnis (2017). "Big Date for Big Questions: Assessing the Impact of Non-English Language Sources on Doctoral Research at Berkeley."  
+  [(view article)](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2017/BigDataforBigQuestions.pdf)
+</details>
+
+
+
 
 ### Hanshu KWIC
 https://github.com/spmcginnis/Hanshu_KWIC_2014

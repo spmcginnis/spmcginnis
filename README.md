@@ -15,13 +15,13 @@ https://github.com/spmcginnis/sample-HealthDataAPI
 <h5>JAIFR (TODO)</h5>
   <h5>Hanshu shuwen bingben</h5>
   https://github.com/spmcginnis/HS-swbb
-  <h5>Library Citations Project</h5>
-    TODO desc....
-  <details><summary>More Info</summary>
+  <h5>Library Citations Project  <details><summary>More Info</summary>
     Edwards, Jones, and McGinnis (2017). "Big Date for Big Questions: Assessing the Impact of Non-English Language Sources on Doctoral Research at Berkeley."  
     [(view article)](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2017/BigDataforBigQuestions.pdf)
     [(view source files)](https://github.com/spmcginnis/LibCitationsProject_2017)
-</details>
+</details></h5>
+    TODO desc....
+
   <h5>Hanshu KWIC</h5>
   https://github.com/spmcginnis/Hanshu_KWIC_2014
   TODO add poster as image

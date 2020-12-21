@@ -12,33 +12,27 @@ https://github.com/spmcginnis/sample-HealthDataAPI
 </ul>
 
 <h3>Digital Humanities</h3>
-<ul>
-  <li>JAIFR (TODO)</li>
-  <li>Hanshu shuwen bingben</li>
+<h5>JAIFR (TODO)</h5>
+  <h5>Hanshu shuwen bingben</h5>
   https://github.com/spmcginnis/HS-swbb
-  <li>Library Citations Project</li>
+  <h5>Library Citations Project</h5>
     TODO desc....
-  <details>
-
- 
-
-  <summary>More Info</summary>
-  
-  Edwards, Jones, and McGinnis (2017). "Big Date for Big Questions: Assessing the Impact of Non-English Language Sources on Doctoral Research at Berkeley."  
-  [(view article)](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2017/BigDataforBigQuestions.pdf)
-  [(view source files)](https://github.com/spmcginnis/LibCitationsProject_2017)
+  <details><summary>More Info</summary>
+    Edwards, Jones, and McGinnis (2017). "Big Date for Big Questions: Assessing the Impact of Non-English Language Sources on Doctoral Research at Berkeley."  
+    [(view article)](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2017/BigDataforBigQuestions.pdf)
+    [(view source files)](https://github.com/spmcginnis/LibCitationsProject_2017)
 </details>
-  <li>Hanshu KWIC</li>
+  <h5>Hanshu KWIC</h5>
   https://github.com/spmcginnis/Hanshu_KWIC_2014
   TODO add poster as image
-  <li>Richard Pryor's Peoria</li>
+  <h5>Richard Pryor's Peoria</h5>
   In collaboration with Chris Church:
 - Designed the layout for several pages.
 - Reorganized the Wordpress backend.
 - Developed the imgage carousel and svg network visualization.
 
 www.becomingrichardpryor.com/pryors-peoria/
-<li>True Crimes</li>
+<h5>True Crimes</h5>
 A digital archive of imperial Chinese legal documents pertaining to the prosecution of twenty-one capital crimes.
 - Created a document model for the Chinese texts.
 - Generated XML templates for each of the documents, in conformance with TEI P5 standards.

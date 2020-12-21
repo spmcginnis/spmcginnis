@@ -91,7 +91,7 @@
 <h5>
   <details>
     <summary>
-      True Crimes (Collab)
+      True Crimes
       <br/>A digital archive of imperial Chinese legal documents pertaining to the prosecution of twenty-one capital crimes.
     </summary>
     My contribution included:

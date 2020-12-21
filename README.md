@@ -1,5 +1,3 @@
-<h2>Project Portfolio (WIP)</h2>
-
 <!-- TEMPLATE
 <h5>
   <details>

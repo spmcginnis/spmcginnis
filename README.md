@@ -49,10 +49,9 @@
       Han shu shuwen bingben 漢書數文竝本
       <br/>An electronic edition of a voluminous classical Chinese history, encoded in TEI-XML.
     </summary>
-    <div>TODO: Progress to date
-      <br/>
-      <a href="https://github.com/spmcginnis/HS-swbb">Source Files</a>
-    </div>
+    TODO: Progress to date
+    <br/>
+    <a href="https://github.com/spmcginnis/HS-swbb">Source Files</a>
   </details>
 </h5> 
 <h5>
@@ -63,8 +62,8 @@
     </summary>
     For more details, see the following article, esp. pages 89 ff.
     Edwards, Jones, and McGinnis (2017). "Big Date for Big Questions: Assessing the Impact of Non-English Language Sources on Doctoral Research at Berkeley."  
-    [(view article)](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2017/BigDataforBigQuestions.pdf)
-    [(view source files)](https://github.com/spmcginnis/LibCitationsProject_2017)
+    <br/><a href="http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2017/BigDataforBigQuestions.pdf">View Article</a>
+    <br/>< href="https://github.com/spmcginnis/LibCitationsProject_2017">Source Files</a>
   </details>
 </h5>
 <h5>

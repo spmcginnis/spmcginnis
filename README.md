@@ -11,7 +11,7 @@
   </details>
 </h5>
 -->
-<h3>Application Development</h3>
+<h2>Application Development</h2>
 
 <h5>
   <details>
@@ -32,7 +32,7 @@
   </details>
 </h5>
 
-<h3>Digital Humanities</h3>
+<h2>Digital Humanities</h2>
 
 <h5>
   <details>

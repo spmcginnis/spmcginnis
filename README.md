@@ -103,3 +103,14 @@
     <a href="http://digital.wustl.edu/truecrimes/">View Site</a>    
   </details>
 </h5>
+
+<h2>Toys and Games</h2>
+<h5>
+  <details>
+    <summary>
+      lolbot
+      <br/>A Discord bot using discord.js to query champion data from the Riot Games API.
+    </summary>
+    <a href="https://github.com/spmcginnis/djs_lolbot">Source Files</a>
+  </details>
+</h5>

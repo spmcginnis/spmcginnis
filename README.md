@@ -1,14 +1,15 @@
 # Project Portfolio (WIP)
 
-## Application Development
-
-### Sample Health Data Frontend
-An Angular web-app desigend to consume the sample health data API.  
+<h3>Application Development</h3>
+<ul>
+  <li>Sample Health Data Frontend</li>
+  An Angular web-app desigend to consume the sample health data API.  
 https://github.com/spmcginnis/HealthDataFrontend
 
-### Sample Health Data API
-My capstone project for LaunchCode, this is an ASP.NET RestAPI written in C# with a MongoDB.  
+  <li>Sample Health Data API</li>
+  My capstone project for LaunchCode, this is an ASP.NET RestAPI written in C# with a MongoDB.  
 https://github.com/spmcginnis/sample-HealthDataAPI
+</ul>
 
 ## Digital Humanities
 ### TODO JAIFR

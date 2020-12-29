@@ -17,7 +17,8 @@
       Sample Health Data Frontend
       <br/>An Angular web-app desigend to consume the sample health data API.  
     </summary>
-    https://github.com/spmcginnis/HealthDataFrontend
+    <a href="https://spmcginnis.github.io/HealthDataFrontend/home">Demo</a>
+    <a href="https://github.com/spmcginnis/HealthDataFrontend">Source Files</a>
   </details>
 </h5>
 <h5>

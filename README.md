@@ -60,7 +60,8 @@
       Library Citations Project
       <br/>Scripts for use on the ProQuest dissertation collection, using XQuery to query the XML data and generate XSLX (Excel-XML) reports and using Python to automate the queries.
     </summary>
-    For more details, see Edwards, Jones, and McGinnis (2017). "Big Date for Big Questions: Assessing the Impact of Non-English Language Sources on Doctoral Research at Berkeley," esp. p. 89.<br/>
+    <p>
+    For more details, see Edwards, Jones, and McGinnis (2017). "Big Date for Big Questions: Assessing the Impact of Non-English Language Sources on Doctoral Research at Berkeley," esp. p. 89.<br/></p>
     <a href="http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2017/BigDataforBigQuestions.pdf">View Article</a><br/>
     <a href="https://github.com/spmcginnis/LibCitationsProject_2017">Source Files</a>
   </details>

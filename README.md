@@ -36,10 +36,11 @@
 <h5>
   <details>
     <summary>
-      JAIFR (TODO)
-      <br/>desc
+      Japanese-American Incarceration Federal Reserve Papers
+      <br/>A grant-funded project to digitize records from the Federal Reserve pertaining to the history of Japanese-American incarceration during WWII.
     </summary>
-    add'l information
+    (Desc. pending.)
+    <!-- TODO links -->
   </details>
 </h5>
 <h5>
@@ -48,7 +49,7 @@
       Han shu shuwen bingben 漢書數文竝本
       <br/>An electronic edition of a voluminous classical Chinese history, encoded in TEI-XML.
     </summary>
-    TODO: Progress to date
+    (Desc. pending.)
     <br/>
     <a href="https://github.com/spmcginnis/HS-swbb">Source Files</a>
   </details>

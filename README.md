@@ -73,6 +73,7 @@
       Han shu KWIC  
       <p>A Keyword-in-context search for a classical Chinese history, written in XSLT.<p>
     </summary>
+    <p><!-- details -->
     <a href="https://github.com/spmcginnis/Hanshu_KWIC_2014">Source Files</a>
     <br/>TODO add poster as image
   </details>
@@ -81,14 +82,16 @@
   <details>
     <summary>
       Richard Pryor's Peoria
-      <br/>desc (TODO)
+      <p>A companion site to Scott Saul's <i>Becoming Richard Pryor</i>, built in WordPress.</p>
     </summary>
+    <p>
     My contribution included:
     <ul>
       <li>Designing the layout for several pages.</li>
       <li>Reorganizing the Wordpress backend.</li>
       <li>Developing the imgage carousel, the maps views, and svg network visualization.</li>
     </ul>
+    </p>
     <a href="www.becomingrichardpryor.com/pryors-peoria/">View Site</a>
   </details>
 </h5>
@@ -96,14 +99,15 @@
   <details>
     <summary>
       True Crimes
-      <br/>A digital archive of imperial Chinese legal documents pertaining to the prosecution of twenty-one capital crimes.
+      <p>A digital archive of imperial Chinese legal documents pertaining to the prosecution of twenty-one capital crimes.</p>
     </summary>
-    My contribution included:
-    <ul>
-      <li>Creating a document model for the Chinese texts.</li>
-      <li>Generating XML templates for each of the documents, in conformance with TEI P5 standards.</li>
-      <li>Solving problems related to centuries-old Chinese handwriting.</li>
-    </ul>
+    <p>My contribution included:
+      <ul>
+        <li>Creating a document model for the Chinese texts.</li>
+        <li>Generating XML templates for each of the documents, in conformance with TEI P5 standards.</li>
+        <li>Solving problems related to centuries-old Chinese handwriting.</li>
+      </ul>
+    </p>
     <a href="http://digital.wustl.edu/truecrimes/">View Site</a>    
   </details>
 </h5>
@@ -118,7 +122,7 @@
     <p>Features:
     <ul>
       <li>Returns champion lore.</li>
-      <li>Returns description of each champion's abilitys.</li>
+      <li>Returns a description for each ability of every champion.</li>
       <li>Includes an update script.</li>
     </ul>
     </p>

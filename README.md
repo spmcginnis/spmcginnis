@@ -40,7 +40,7 @@
       Japanese-American Incarceration Federal Reserve Papers
       <p>A grant-funded project to digitize records from the Federal Reserve pertaining to the history of Japanese-American incarceration during WWII.</p>
     </summary>
-    <p>(Description pending.)</p>
+    <p>Description pending.</p>
     <!-- links -->
   </details>
 </h5>
@@ -50,8 +50,7 @@
       Han shu shuwen bingben 漢書數文竝本
       <p>An electronic edition of a voluminous classical Chinese history, encoded in TEI-XML.</p>
     </summary>
-    <p>(Description pending.)</p>
-
+    <p>Description pending.</p>
     <a href="https://github.com/spmcginnis/HS-swbb">Source Files</a>
   </details>
 </h5> 

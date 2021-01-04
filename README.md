@@ -81,7 +81,7 @@
   <details>
     <summary>
       Richard Pryor's Peoria
-      <p>A companion site to Scott Saul's <i>Becoming Richard Pryor</i>, built in WordPress.</p>
+      <p>A WordPress site built as a companion to Scott Saul's <i>Becoming Richard Pryor</i>.</p>
     </summary>
     <p>
     My contribution included:

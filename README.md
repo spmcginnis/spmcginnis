@@ -38,7 +38,7 @@
   <details>
     <summary>
       Japanese-American Incarceration Federal Reserve Papers
-      <p>A grant-funded project to digitize records from the Federal Reserve pertaining to the history of Japanese-American incarceration during WWII.</p>
+      <p>A grant-funded project to digitize and xml-encode records from the Federal Reserve pertaining to the history of Japanese-American incarceration during WWII.</p>
     </summary>
     <p>Description pending.</p>
     <!-- links -->

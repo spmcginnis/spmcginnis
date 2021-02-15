@@ -125,7 +125,7 @@
   <details>
     <summary>
       lolbot
-      <p>A Discord bot using discord.js to query champion data from the Riot Games API.</p>
+      <p>A Discord bot using discord.js to query champion data from the Riot Games API. Very much a work in progress.</p>
     </summary>
     <p>Features:
     <ul>

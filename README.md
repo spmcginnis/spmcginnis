@@ -17,6 +17,9 @@
       Sample Health Data Frontend
       <p>An Angular web-app desigend to consume the sample health data API.</p>
     </summary>
+    <p>Imagine a hospital administrator who was to decide how to allocate funding for serving non-English speaking patients. This app provides a view for that administrator to see which language-speaking patients use what hospitals.</p>
+    <p>I created this Angular app in my personal time to consume the API I made for my LaunchCode capstone project. As the API is not hosted, the demo app instead consumes a flat file version of the data and CRUD functionality has been disabled.</p>
+    <p>At this point, the map page mereley consists of a basic Leaflet.js map of the region. Down the road, I plan to add data visualizations to the map that would aid our imaginary administrator.</p>
     <a href="https://spmcginnis.github.io/HealthDataFrontend/home">Demo</a><br/>
     <a href="https://github.com/spmcginnis/HealthDataFrontend">Source Files</a>
   </details>
@@ -27,7 +30,13 @@
       Sample Health Data API
       <p>My capstone project for LaunchCode, this is an ASP.NET RestAPI written in C# with a MongoDB.</p>
     </summary>
-    <p><!-- desc -->
+    <p>Imagine a hospital administrator who was to decide how to allocate funding for serving non-English speaking patients. This API is desigend to serve the data that an administrator could use to see which language-speaking patients use what hospitals.</p>
+    <p>None of the data belongs to real people. But the data is based on real standards and statistics.
+        <ul>
+          <li>The hospitals were selected because they are the largest in the region by number of beds.</li>
+          <li>The data fields were derived from a CCD-XML template, in following C-CDA 2.0, a healthcare data standard certified by the American National Standards Institute.</li>
+          <li>The fake names were generated using the Python names library. I found that the names appeared too real, so I appended the prefix "fake-" to eliminate any confusion of this data for the data of real people.</li>
+      </p>
     <a href="https://github.com/spmcginnis/sample-HealthDataAPI">Source Files</a>
   </details>
 </h5>

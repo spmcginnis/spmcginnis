@@ -100,7 +100,7 @@
       <li>Developing the imgage carousel, the maps views, and svg network visualization.</li>
     </ul>
     </p>
-    <a href="www.becomingrichardpryor.com/pryors-peoria/">View Site</a>
+    <a href="https://www.becomingrichardpryor.com/pryors-peoria/">View Site</a>
   </details>
 </h5>
 <h5>

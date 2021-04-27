@@ -97,7 +97,7 @@
     <ul>
       <li>Designing the layout for several pages.</li>
       <li>Reorganizing the Wordpress backend.</li>
-      <li>Developing the imgage carousel, the maps views, and svg network visualization.</li>
+      <li>Developing the image carousel, the maps views, and svg network visualization.</li>
     </ul>
     </p>
     <a href="https://www.becomingrichardpryor.com/pryors-peoria/">View Site</a>
